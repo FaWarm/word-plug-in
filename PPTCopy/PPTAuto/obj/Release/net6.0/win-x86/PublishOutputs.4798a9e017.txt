@@ -1,0 +1,5 @@
+D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\publish\win-x86\PPTCopyAndExcute.pdb
+D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\publish\win-x86\MacroVba\excuteMacroName.txt
+D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\publish\win-x86\MacroVba\macro.txt
+D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\publish\win-x86\MacroVba\sourceName.txt
+D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\publish\win-x86\PPTCopyAndExcute.exe

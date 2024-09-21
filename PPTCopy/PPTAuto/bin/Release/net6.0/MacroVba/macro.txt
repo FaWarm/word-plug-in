@@ -1,0 +1,28 @@
+Sub cccc()
+    Dim sld As slide
+    Dim shp As Shape
+    Dim searchText As String
+    Dim replaceText As String
+    Dim foundPos As Integer
+    
+    ' 设置你要搜索的文本和替换的文本
+    searchText = "6410" ' 这里是你要搜索的文本的一部分
+    replaceText = "新的641064106410文本" ' 这里是你想替换成的文本
+    
+    ' 获取第一个幻灯片
+    Set sld = ActivePresentation.Slides(1)
+
+    ' 遍历幻灯片的每个形状
+    For Each shp In sld.Shapes
+        ' 检查该形状是否包含文本
+        If shp.HasTextFrame Then
+            ' 使用 InStr 函数检查文本框内容是否包含我们要搜索的文本部分
+            foundPos = InStr(1, shp.TextFrame.TextRange.Text, searchText, vbTextCompare)
+            If foundPos > 0 Then
+                ' 替换文本框中的特定部分
+                shp.TextFrame.TextRange.Characters(foundPos, Len(searchText)).Text = replaceText
+            End If
+        End If
+    Next shp
+End Sub
+

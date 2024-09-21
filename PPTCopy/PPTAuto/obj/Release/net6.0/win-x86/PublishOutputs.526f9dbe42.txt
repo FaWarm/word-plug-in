@@ -1,0 +1,4 @@
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\win-x86\PPTAuto.pdb
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\win-x86\MacroVba\macro.txt
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\win-x86\MacroVba\setting.txt
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\win-x86\PPTAuto.exe

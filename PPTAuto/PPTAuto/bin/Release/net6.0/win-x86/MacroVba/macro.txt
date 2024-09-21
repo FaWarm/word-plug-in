@@ -1,0 +1,40 @@
+Sub bbbbb()
+
+
+
+    Dim shp As Shape
+
+    ' 在第一个幻灯片上创建一个文本框
+    Set shp = ActivePresentation.Slides(1).Shapes.AddTextbox(Orientation:=msoTextOrientationHorizontal, _
+                                                              Left:=100, Top:=100, Width:=400, Height:=150)
+
+    ' 添加三段文本
+    With shp.TextFrame.TextRange
+        .Text = "第一段内容" & vbNewLine & _
+                "第二段内容" & vbNewLine & _
+                "第三段内容"
+
+        ' 设置段落的前四个字符为红色
+        .Characters(1, 4).Font.Color.RGB = RGB(255, 0, 0) ' Red
+        .Characters(5, Len(.Text) - 4).Font.Color.RGB = RGB(0, 0, 255) ' Blue
+
+        ' 设置文本格式
+        With .Font
+            .Size = 32
+            .Bold = msoTrue
+        End With
+
+        ' 设置段落格式为箭头项目符号
+        .ParagraphFormat.Bullet.Style = ppBulletSymbol
+        .ParagraphFormat.Bullet.Type = ppBulletUnnumbered
+        .ParagraphFormat.Bullet.Character = 216
+        .ParagraphFormat.Bullet.Font.Name = "Wingdings"
+        .ParagraphFormat.Bullet.Visible = msoTrue
+        .ParagraphFormat.Bullet.Font.Color.RGB = RGB(255, 0, 0) ' Red
+        .ParagraphFormat.SpaceBefore = 16
+        .ParagraphFormat.SpaceAfter = 16
+    End With
+
+End Sub
+
+

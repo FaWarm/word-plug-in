@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PPTCopyAndExcute</id>
+    <version>1.0.0</version>
+    <authors>PPTCopyAndExcute</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="DocumentFormat.OpenXml" version="3.0.0-beta0003" exclude="Build,Analyzers" />
+        <dependency id="ThammimTech.Microsoft.Vbe.Interop" version="15.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\PPTCopyAndExcute.runtimeconfig.json" target="lib\net6.0\PPTCopyAndExcute.runtimeconfig.json" />
+    <file src="D:\USST\自定义开发\PPTCopy\PPTAuto\bin\Release\net6.0\PPTCopyAndExcute.dll" target="lib\net6.0\PPTCopyAndExcute.dll" />
+  </files>
+</package>

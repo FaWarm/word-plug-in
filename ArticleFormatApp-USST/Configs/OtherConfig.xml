@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OtherConfigModel>
+	<!--多级列表参数-->
+	<HeadingListTemplate>
+		<Name>自定义标题多级列表</Name>
+		<NumberStyle>wdListNumberStyleArabic</NumberStyle>
+		<TextPosition>0.0</TextPosition>
+		<NumberPosition>0.0</NumberPosition>
+		<TrailingCharacter>wdTrailingSpace</TrailingCharacter>
+		<NumberFormat1>第%1章</NumberFormat1>
+		<NumberFormat2>%1.%2</NumberFormat2>
+		<NumberFormat3>%1.%2.%3</NumberFormat3>
+		<NumberFormat4>%1.%2.%3.%4</NumberFormat4>
+		<NumberFormat5>%1.%2.%3.%4.%5</NumberFormat5>
+		<NumberFormat6>%1.%2.%3.%4.%5.%6</NumberFormat6>
+		<NumberFormat7>%1.%2.%3.%4.%5.%6.%7</NumberFormat7>
+		<NumberFormat8>%1.%2.%3.%4.%5.%6.%7.%8</NumberFormat8>
+		<NumberFormat9>%1.%2.%3.%4.%5.%6.%7.%8.%9</NumberFormat9>
+	</HeadingListTemplate>
+	<!--参考文献列表参数-->
+	<ReferencesListTemplate>
+		<Name>参考文献编号</Name>
+		<NumberFormat>[%1]</NumberFormat>
+		<TrailingCharacter>wdTrailingSpace</TrailingCharacter>
+	</ReferencesListTemplate>
+	
+</OtherConfigModel>

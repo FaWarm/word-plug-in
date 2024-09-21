@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0_Seeshape\\ArticleArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC43DAE-BBF7-43C2-A14E-F80E0EEA5A8B}|ArticleArray.csproj|d:\\0_seeshape\\articlearray\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC43DAE-BBF7-43C2-A14E-F80E0EEA5A8B}|ArticleArray.csproj|solutionrelative:ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC43DAE-BBF7-43C2-A14E-F80E0EEA5A8B}|ArticleArray.csproj|D:\\0_Seeshape\\ArticleArray\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC43DAE-BBF7-43C2-A14E-F80E0EEA5A8B}|ArticleArray.csproj|solutionrelative:ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC43DAE-BBF7-43C2-A14E-F80E0EEA5A8B}|ArticleArray.csproj|D:\\0_Seeshape\\ArticleArray\\functions\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC43DAE-BBF7-43C2-A14E-F80E0EEA5A8B}|ArticleArray.csproj|solutionrelative:functions\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonMethods.cs",
+              "DocumentMoniker": "D:\\0_Seeshape\\ArticleArray\\Functions\\CommonMethods.cs",
+              "RelativeDocumentMoniker": "Functions\\CommonMethods.cs",
+              "ToolTip": "D:\\0_Seeshape\\ArticleArray\\Functions\\CommonMethods.cs",
+              "RelativeToolTip": "Functions\\CommonMethods.cs",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAAAFMBAAAaAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-12-29T07:08:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ribbon1.cs",
+              "DocumentMoniker": "D:\\0_Seeshape\\ArticleArray\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "Ribbon1.cs",
+              "ToolTip": "D:\\0_Seeshape\\ArticleArray\\Ribbon1.cs",
+              "RelativeToolTip": "Ribbon1.cs",
+              "ViewState": "AQIAAGgCAAAAAAAAAAApwHgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-29T07:08:26.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ribbon1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\0_Seeshape\\ArticleArray\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "Ribbon1.cs",
+              "ToolTip": "D:\\0_Seeshape\\ArticleArray\\Ribbon1.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "Ribbon1.cs [\u8BBE\u8BA1]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALOSURBVEhLvVbNS2JRFD/qK4lCFKewEJWYjTOSIEGQgu1sFW5GF4KupHDZ/AHaHzDMaly2aNm4cWGhi2iniyAhGGohFeNH\u002BvCzWkSWc87tKs28dMacmR8cLu/ec8/v3HPPOffBv4aMjz2sr6\u002BvPD4\u002Brtzc3EC73eazUsjlchAEAZaXl2FpaUnE712bzSby5R4kBMFgMILK4bGxMZDJJMs9oBNATlgsFrBarbnx8fFNlUqV/pVE4GMPtEmr1cLa2hob\u002B6FarUI8HofT01NoNBp6p9P5CUk/41L0SeMJEgIKC3lOxnU6HZ\u002BVgnQUCgVzqFQqKbPZ7Fu9Xv/h6OhI9jxccqY9AjqdDtze3sLx8THk8/mVWq0WKpfLM3x5dAICkdCdnJ2dQSKRgGQyyVdGIJicnASHwwGrq6tMXC4XzM7OQqVSgaurK641AsHU1BTY7XZmuCvz8/Pw8PAA9/f3XOsvhWgQ/j/B3NwcpegdpmEOL\u002B9bV3BJHFR4/SAhCIVC4PP58kiyifH0dAUr\u002Byu1hmFJJIV2cHBAea3a29tznZ\u002Bfi2RUrVaD3\u002B8XvV7vF0xHD5JMc/XfQnKC7e1tiMVi0\u002Bh1yGg0hjFkYazY8M7ODlV5FI1XuOofQUKAfQWUSiV1VYhEIrCxscG\u002Baf41kBB0exFdtslkYiO15kGtexDkWI3vCAaDgQlmzBsqlGKxCJeXl1AoFH4qnGEhYKx3qSuSlxwzoihCNBoFehPIOJX/ayFgxrzHAwAJAdsuXFxcwOLiImg0Ghb7w8NDNu7v7zOdfqlKJ56YmGDNrwvh\u002BvqaGQ8EAnwKoF6vg9vtZndAm4iUCFKp1B1uzqHKiwxkHCWH0bjjU9JLHoRms5nHOvj4vACfC5J70Pgmhvw73wKyhYWFjtlsloQIn0AWolarBZlMhsatk5OTCFMaAjL8K\u002BjQs0eheglUyUSEXm2l0\u002BkhCQB\u002BAOztVYKLlkysAAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-12-29T07:08:26.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

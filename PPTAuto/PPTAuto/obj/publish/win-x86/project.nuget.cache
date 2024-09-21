@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "jndlW7OpUFFRmJ0mEma1TygB+zUJ+Q30LoY4QZFrQbyI1zixt2MjgikanubMgmNNmBIVfdGJq02dXNKrqBgDuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\22728\\Desktop\\seeshape\\PPTAuto\\PPTAuto\\PPTAuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\22728\\.nuget\\packages\\thammimtech.microsoft.vbe.interop\\15.0.0\\thammimtech.microsoft.vbe.interop.15.0.0.nupkg.sha512",
+    "C:\\Users\\22728\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.18\\microsoft.netcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\22728\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\22728\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x86.6.0.18.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0”还原包“ThammimTech.Microsoft.Vbe.Interop 15.0.0”。此包可能与项目不完全兼容。",
+      "libraryId": "ThammimTech.Microsoft.Vbe.Interop",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

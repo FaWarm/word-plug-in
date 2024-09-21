@@ -1,0 +1,26 @@
+﻿NameLocal,BaseStyle,NextParagraphStyle,FontUnderline,FontItalic,FontName,FontNameFarEast,FontSize,FontBold,FontColor,ParaAlignment,ParaCharacterUnitFirstLineIndent,ParaCharacterUnitLeftIndent,ParaCharacterUnitRightIndent,ParaFirstLineIndent,ParaLeftIndent,ParaSpaceBefore,ParaSpaceAfter,ParaLineSpacingRule,ParaLineSpacing,OutlineLevel,LinkToListTemplate
+段落正文,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+附录正文,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,10.5,0,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+学术成果正文,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,3,0,wdLineSpaceExactly,16,wdOutlineLevelBodyText,
+摘要正文,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+致谢正文,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,0,0,wdLineSpaceExactly,16,wdOutlineLevelBodyText,
+带公式正文,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,3,3,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+公式,wdStyleNormal,段落正文,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphLeft,0,0,0,0,0,6,6,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+标题 1,wdStyleNormal,段落正文,wdUnderlineNone,FALSE,Times New Roman,黑体,18,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,24,18,wdLineSpaceExactly,20,wdOutlineLevel1,自定义标题多级列表
+其他标题,wdStyleNormal,段落正文,wdUnderlineNone,FALSE,Times New Roman,黑体,18,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,24,18,wdLineSpaceSingle,20,wdOutlineLevel1,
+标题 2,wdStyleNormal,段落正文,wdUnderlineNone,FALSE,Times New Roman,宋体,14,1,wdColorBlack,wdAlignParagraphLeft,0,0,0,0,0,24,6,wdLineSpaceExactly,20,wdOutlineLevel2,自定义标题多级列表
+标题 3,wdStyleNormal,段落正文,wdUnderlineNone,FALSE,Times New Roman,宋体,12,1,wdColorBlack,wdAlignParagraphLeft,0,0,0,0,0,12,6,wdLineSpaceExactly,20,wdOutlineLevel3,自定义标题多级列表
+标题 4,wdStyleNormal,段落正文,wdUnderlineNone,FALSE,Times New Roman,宋体,12,1,wdColorBlack,wdAlignParagraphLeft,0,0,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevel4,自定义标题多级列表
+标题,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,黑体,18,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,24,18,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+表内容,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,10.5,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,3,3,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+表题注,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,12,6,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+表注释,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,0,0,0,0,0,6,12,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+参考文献列表,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,0,0,0,0,0,3,0,wdLineSpaceExactly,16,wdOutlineLevelBodyText,参考文献编号
+关键词,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,14,1,wdColorBlack,wdAlignParagraphJustify,2,0,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+图片内容,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,10.5,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,0,0,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+图题注,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,6,12,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+TOC 1,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,0,0,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+TOC 2,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,0,1,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+TOC 3,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,宋体,12,0,wdColorBlack,wdAlignParagraphJustify,0,2,0,0,0,0,0,wdLineSpaceExactly,20,wdOutlineLevelBodyText,
+页眉,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,楷体,10.5,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,0,0,wdLineSpaceSingle,20,wdOutlineLevelBodyText,
+页脚,wdStyleNormal,,wdUnderlineNone,FALSE,Times New Roman,楷体,10.5,0,wdColorBlack,wdAlignParagraphCenter,0,0,0,0,0,0,0,wdLineSpaceSingle,20,wdOutlineLevelBodyText,

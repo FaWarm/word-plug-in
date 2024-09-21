@@ -1,0 +1,8 @@
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\PPTAuto.exe
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\MacroVba\macro.txt
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\MacroVba\setting.txt
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\PPTAuto.dll
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\PPTAuto.deps.json
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\PPTAuto.runtimeconfig.json
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\PPTAuto.pdb
+C:\Users\22728\Desktop\seeshape\PPTAuto\PPTAuto\bin\Release\net6.0\publish\Microsoft.Vbe.Interop.dll

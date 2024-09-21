@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppName" xml:space="preserve">
+    <value>上理研</value>
+    <comment>tab的标签名</comment>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="biaoge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\biaoge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="erjibiaoti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\erjibiaoti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Footer" xml:space="preserve">
+    <value>页脚</value>
+  </data>
+  <data name="FormulaIncludeChapterNumber" xml:space="preserve">
+    <value>false</value>
+    <comment>公式题注是否包含章节号</comment>
+  </data>
+  <data name="FormulaLabelName" xml:space="preserve">
+    <value>公式</value>
+    <comment>公式题注名称</comment>
+  </data>
+  <data name="FormulaLabelPostion" xml:space="preserve">
+    <value>wdCaptionPositionBelow</value>
+    <comment>公式题注位置</comment>
+  </data>
+  <data name="FormulaSeparator" xml:space="preserve">
+    <value>wdSeparatorPeriod</value>
+    <comment>公式题注分隔符</comment>
+  </data>
+  <data name="Header" xml:space="preserve">
+    <value>页眉</value>
+  </data>
+  <data name="Heading" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="Heading1" xml:space="preserve">
+    <value>标题 1</value>
+  </data>
+  <data name="Heading2" xml:space="preserve">
+    <value>标题 2</value>
+  </data>
+  <data name="Heading3" xml:space="preserve">
+    <value>标题 3</value>
+  </data>
+  <data name="Heading4" xml:space="preserve">
+    <value>标题 4</value>
+  </data>
+  <data name="IncludeChapterNumber" xml:space="preserve">
+    <value>true</value>
+    <comment>题注是否包含章节号</comment>
+  </data>
+  <data name="mulu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mulu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OtherConfigPath" xml:space="preserve">
+    <value>.Configs.OtherConfig.xml</value>
+    <comment>其他参数内容路径</comment>
+  </data>
+  <data name="OtherHeading" xml:space="preserve">
+    <value>其他标题</value>
+  </data>
+  <data name="PicLabelName" xml:space="preserve">
+    <value>图</value>
+    <comment>图题注的指定名称</comment>
+  </data>
+  <data name="PicLabelPostion" xml:space="preserve">
+    <value>wdCaptionPositionBelow</value>
+    <comment>图题注的位置</comment>
+  </data>
+  <data name="PicSeparator" xml:space="preserve">
+    <value>wdSeparatorPeriod</value>
+    <comment>图题注的分隔符</comment>
+  </data>
+  <data name="qitabiaoti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qitabiaoti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sanjibiaoti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sanjibiaoti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shengcheng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shengcheng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sijibiaoti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sijibiaoti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StylesPath" xml:space="preserve">
+    <value>.Configs.Styles.csv</value>
+    <comment>样式文件内容路径</comment>
+  </data>
+  <data name="TableExclueLabel" xml:space="preserve">
+    <value>true</value>
+    <comment>表题注是否排除标签</comment>
+  </data>
+  <data name="TableLabelName" xml:space="preserve">
+    <value>表</value>
+    <comment>表题注的指定名称</comment>
+  </data>
+  <data name="TableLabelPostion" xml:space="preserve">
+    <value>wdCaptionPositionAbove</value>
+    <comment>表题注的位置</comment>
+  </data>
+  <data name="TableSeparator" xml:space="preserve">
+    <value>wdSeparatorPeriod</value>
+    <comment>表题注的分隔符</comment>
+  </data>
+  <data name="TOC1" xml:space="preserve">
+    <value>TOC 1</value>
+  </data>
+  <data name="TOC2" xml:space="preserve">
+    <value>TOC 2</value>
+  </data>
+  <data name="TOC3" xml:space="preserve">
+    <value>TOC 3</value>
+  </data>
+  <data name="tupianzhengwen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tupianzhengwen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yemeiyejiao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yemeiyejiao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yijibiaoti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yijibiaoti.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zhaiyao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zhaiyao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zhengwen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zhengwen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

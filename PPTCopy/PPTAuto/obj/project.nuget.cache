@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "raJzc1VpkxakDl0T9lE1dczlfVeh+lcxU2g7ZxL+fBLGR9I8n8jcj+xOIA5KsSo68zVQJfGbeqcQ+hlKYtMowg==",
+  "success": true,
+  "projectFilePath": "D:\\USST\\自定义开发\\PPTCopy\\PPTAuto\\PPTCopyAndExcute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\22728\\.nuget\\packages\\documentformat.openxml\\3.0.0-beta0003\\documentformat.openxml.3.0.0-beta0003.nupkg.sha512",
+    "C:\\Users\\22728\\.nuget\\packages\\documentformat.openxml.framework\\3.0.0-beta0003\\documentformat.openxml.framework.3.0.0-beta0003.nupkg.sha512",
+    "C:\\Users\\22728\\.nuget\\packages\\system.io.packaging\\7.0.0\\system.io.packaging.7.0.0.nupkg.sha512",
+    "C:\\Users\\22728\\.nuget\\packages\\thammimtech.microsoft.vbe.interop\\15.0.0\\thammimtech.microsoft.vbe.interop.15.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0”还原包“ThammimTech.Microsoft.Vbe.Interop 15.0.0”。此包可能与项目不完全兼容。",
+      "libraryId": "ThammimTech.Microsoft.Vbe.Interop",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
